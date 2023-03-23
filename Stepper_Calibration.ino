@@ -1,14 +1,15 @@
-//www.elegoo.com
-//2018.10.25
-
+//Coding and Robotics
+//03.23.2023
 /*
-  Stepper Motor Control - one revolution
+  Stepper Motor Calibration
 
   This program drives a unipolar or bipolar stepper motor.
   The motor is attached to digital pins 8 - 11 of the Arduino.
 
-  The motor should revolve one revolution in one direction, then
-  one revolution in the other direction.
+  The motor should revolve in one direction when one button is pressed, then
+  in the other direction when the other button is pressed.
+  
+  The steps in one direction will be printed to the LCD screen.
 
 */
 
